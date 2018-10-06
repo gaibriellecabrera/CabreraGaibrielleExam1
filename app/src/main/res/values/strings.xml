@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CabreraGaibrielleExam1</string>
+    <string name="profile">PROFILE</string>
+    <string name="name">JOHN DOE</string>
+    <string name="subheading">LOREM IPSUM DOLOR</string>
+    <string name="money">Money</string>
+    <string name="app">App</string>
+    <string name="fav">Favorites</string>
+    <string name="select">Select</string>
+    <string name="connect">Connect Now</string>
+    <string name="options">Options</string>
+    <string name="alarm">Alarm</string>
+    <string name="info">Info</string>
+
+</resources>
